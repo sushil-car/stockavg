@@ -1,0 +1,7 @@
+{
+  "name": "stockavgcalc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
